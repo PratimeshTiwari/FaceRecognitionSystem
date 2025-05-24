@@ -1,4 +1,4 @@
-##Facial Recognition System 🧠📸
+# Facial Recognition System 🧠📸
 
 A real-time facial recognition system built using Python and OpenCV. It uses the Haar Cascade Classifier to detect faces from live webcam feeds and highlights them with bounding boxes.
 
@@ -52,10 +52,4 @@ facial-recognition-system/
 	•	The system uses OpenCV’s default Haar cascade model for face detection.
 	•	For better accuracy, make sure you are in a well-lit environment.
 
-📃 License
 
-This project is open-source and available under the MIT License.
-
-⸻
-
-Let me know if you want to include enhancements like saving face data, adding recognition features, or converting it to a Flask web app.
