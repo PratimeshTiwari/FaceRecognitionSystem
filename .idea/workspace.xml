@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ce03cb2-749b-4c22-9009-e6ae735bdc26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Apex.code-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/.forceignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/config/project-scratch-def.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/force-app/main/default/aura/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/force-app/main/default/lwc/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/force-app/main/default/lwc/contactFetch/__tests__/contactFetch.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/force-app/main/default/lwc/contactFetch/contactFetch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/force-app/main/default/lwc/contactFetch/contactFetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/force-app/main/default/lwc/contactFetch/contactFetch.js-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/manifest/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/scripts/apex/hello.apex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/scripts/soql/account.soql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/Contact Form to Object/ContactFormFetch/sfdx-project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/.forceignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/config/project-scratch-def.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/aura/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/classes/AccountController.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/classes/AccountController.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/lwc/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/lwc/accountListView/__tests__/accountListView.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/lwc/accountListView/accountListView.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/lwc/accountListView/accountListView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/lwc/accountListView/accountListView.js-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/lwc/attendanceRecordView/__tests__/attendanceRecordView.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/lwc/attendanceRecordView/attendanceRecordView.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/lwc/attendanceRecordView/attendanceRecordView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/force-app/main/default/lwc/attendanceRecordView/attendanceRecordView.js-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/manifest/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/scripts/apex/hello.apex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/scripts/soql/account.soql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Apex/School Management System/sfdx-project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++.code-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++/CPP-DSA-Foundation-CW" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA_ABari_Udemy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/FaceRecognitionSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MERN.code-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming.code-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_CWH/6_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_CWH/7_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_CWH/Notes_L1-10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School Management System.code-workspace" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2i2vKz0qyiL2jqemcdameEINgDo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FaceRecognitionSystem" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ce03cb2-749b-4c22-9009-e6ae735bdc26" name="Changes" comment="" />
+      <created>1718701426205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718701426205</updated>
+      <workItem from="1718701428205" duration="2911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FaceRecognitionSystem$main.coverage" NAME="main Coverage Results" MODIFIED="1718704548624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
